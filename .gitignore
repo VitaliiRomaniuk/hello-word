@@ -1,0 +1,4 @@
+/node_modules
+/.nvm
+/workspace.code-workspace
+/prepros.config
